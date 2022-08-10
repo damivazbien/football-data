@@ -1,0 +1,21 @@
+{
+  "name": "santex-backend-developer-test",
+  "version": "1.0.0",
+  "description": "developer hiring test",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "damian vazquez",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-datasource-mongodb": "^0.5.4",
+    "apollo-datasource-rest": "^3.6.1",
+    "apollo-server": "^3.10.0",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "graphql": "^16.5.0",
+    "nodemon": "^2.0.19"
+  }
+}
