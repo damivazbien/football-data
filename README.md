@@ -1,4 +1,4 @@
-# Santex home challenge
+# home challenge
 
   
 
@@ -20,7 +20,7 @@
 
   
 
-This repository contains a solution for the Santex Back-end Developer Hiring Test home challenge.
+This repository contains a solution for consume data using GRAPHQL.
 
   
 
